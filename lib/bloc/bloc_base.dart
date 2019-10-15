@@ -1,0 +1,3 @@
+mixin BlocBase {
+  void dispose();
+}
